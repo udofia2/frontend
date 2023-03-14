@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { Octokit } from "@octokit/rest";
+import "./style.css";
 
 export const GitHubData = ({ username }) => {
   const [user, setUser] = useState([]);
@@ -50,7 +51,7 @@ export const GitHubData = ({ username }) => {
       <p>
         Website: <a href={user.blog}>{user.blog}</a>
       </p>
-      <div>
+      <div className='repo'>
         <h1>Repositories Section</h1>
         {repo.map((r) => {
             return (
