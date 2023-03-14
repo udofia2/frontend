@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/frontend/static/css/main.b684ecd5.css",
-    "main.js": "/frontend/static/js/main.f0a7d5bc.js",
+    "main.css": "/frontend/static/css/main.f0f5d001.css",
+    "main.js": "/frontend/static/js/main.0c814230.js",
     "static/media/domain_homePage.png": "/frontend/static/media/domain_homePage.1db92e386f85349955f4.png",
     "static/media/temadepharm_landingPage.png": "/frontend/static/media/temadepharm_landingPage.75e840ae3f7d4447b7a4.png",
     "static/media/flowexpresscourier.png": "/frontend/static/media/flowexpresscourier.a6a50752d781bd077772.png",
@@ -11,7 +11,7 @@
     "index.html": "/frontend/index.html"
   },
   "entrypoints": [
-    "static/css/main.b684ecd5.css",
-    "static/js/main.f0a7d5bc.js"
+    "static/css/main.f0f5d001.css",
+    "static/js/main.0c814230.js"
   ]
 }
