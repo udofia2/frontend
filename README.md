@@ -2,9 +2,9 @@
 
 A portfolio CV built with React. 
 
-### [live preview](https://udofia2.github.io/frontend/)
+### [live preview](https://udofia2.github.io/profile/)
 
-[![react portfoiio](src/assets/images/nerdbug.gif)](https://udofia2.github.io/frontend/)
+[![react portfoiio](src/assets/images/decMark.gif)](https://udofia2.github.io/frontend/)
 
 ### Features
 
@@ -18,7 +18,7 @@ A portfolio CV built with React.
 
 Get the code
 
-<pre>git clone https://github.com/udofia2/frontend.git</pre>
+<pre>git clone https://github.com/udofia2/profile.git</pre>
  
 Install required dependencies
 

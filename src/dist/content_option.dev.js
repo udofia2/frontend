@@ -18,7 +18,7 @@ var introdata = {
     second: "I specialize in Backend development",
     third: "I'm a good team player"
   },
-  description: "Hello Nerdbug, let's have some fun time together building products that meets the current market needs.",
+  description: "Hello DecMark, let's have some fun time together building products that meets the current market needs.",
   your_img_url: require("./assets/images/mediumSize.png")
 };
 exports.introdata = introdata;

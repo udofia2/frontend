@@ -2,7 +2,7 @@
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://udofia2.github.io/frontend",
+  "homepage": "https://udofia2.github.io/profile",
   "dependencies": {
     "@octokit/graphql": "^5.0.5",
     "@octokit/rest": "^19.0.7",

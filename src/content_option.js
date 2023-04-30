@@ -13,7 +13,7 @@ const introdata = {
     third: "I'm a good team player",
   },
   description:
-    "Hello Nerdbug, let's have some fun time together building products that meets the current market needs.",
+    "Hello DecMark, let's have some fun time together building products that meets the current market needs.",
   your_img_url: require("./assets/images/mediumSize.png"),
 };
 
